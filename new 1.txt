@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How to Train a Dinosaur</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="overlay">
+    <h1>How to Train a Dinosaur</h1>
+    <a href="#dino-types" class="start-btn">Start - How to Train Dinosaur</a>
+
+    <section id="intro">
+      <p><strong>Jay Lord</strong> and his friend <strong>Azupardo Nogales Pradanos</strong> found a mysterious dinosaur egg in the jungle. 
+      Their adventure begins here...</p>
+    </section>
+
+    <section id="dino-types">
+      <h2>Types of Dinosaurs</h2>
+      <p>Choose a type of dinosaur to learn how to train:</p>
+      <ul>
+        <li><a href="#real-life">Real Life Dinosaur</a></li>
+        <li><a href="#game-dino">In-Game Dinosaur</a></li>
+      </ul>
+    </section>
+
+    <section id="real-life">
+      <h2>Real Life Dinosaur - How to Train</h2>
+      <p>First step: Find the dinosaur egg in the jungle.</p>
+      <p><strong>Dinosaur Egg Details:</strong></p>
+      <ul>
+        <li>Haba: mga 15–20 cm (6–8 inches)</li>
+        <li>Lapad: mga 10–12 cm (4–5 inches)</li>
+        <li>Timbang: humigit-kumulang 2–3 kilo bawat isa</li>
+        <li>Hugis: medyo pahaba (elliptical)</li>
+        <li>Shell texture: medyo magaspang, kulay maputlang beige o brown</li>
+      </ul>
+    </section>
+
+    <section id="game-dino">
+      <h2>In-Game Dinosaur - Training Guide</h2>
+      <p>Possible dinosaurs you can train in the game:</p>
+      <h3 class="good">✅ Good to Train</h3>
+      <ul>
+        <li>Triceratops</li>
+        <li>Brachiosaurus</li>
+      </ul>
+
+      <h3 class="warning">⚠️ Warning: Hard but Possible to Train</h3>
+      <ul>
+        <li>Tyrannosaurus Rex</li>
+        <li>Velociraptor</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
